@@ -1,4 +1,3 @@
-**README.md**
 
 - ✌️ Hello! I'm @eryn-wheeler or just Eryn
 - 🤖 I'm interested in computer vision and I want to get into human-centered computing
